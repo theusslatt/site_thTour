@@ -1,0 +1,48 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar-brand,
+h2 {
+    font-family: 'solstikba', sans-serif;
+    font-size: 2rem;
+}
+
+.navbar {
+    background-color: #84A9AC;
+}
+
+.nav .nav-link.active{
+    background-color: #fff;
+    color: #84A9AC;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#pacotes .card img {
+    height: 240px;
+}
+
+#passagens .card img {
+    height: 500px;
+}
+
+#hoteis {
+    background-color: #84A9AC;
+}
+
+footer {
+    background-color: #84A9AC;
+}
+
+footer span {
+    font-family: 'solstikba', sans-serif;
+}
